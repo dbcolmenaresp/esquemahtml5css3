@@ -1,6 +1,8 @@
-# esquemahtml5css3
+# Esquema de un documento html 5 con css3
 
 Esquema de página realizada con los estandares html5 y css3 para guía de desarrollo de otras páginas
+
+El nuevo estandar html 5 provee los elementos estrucutrales, css se centra en comohacer esa estrucutra usable y atractiva visualmente
 
 Una página con el estandard html5 esta formada por los siguientes bloques:
 
