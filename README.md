@@ -30,4 +30,4 @@ CSS3 sobreescribe los estilos por defecto del navegador.
 
 CSS3 se enlaza con el documento HTML5 desde un archivo esterno a través de una etiqueta link dentro d la etiqueta head.
 
-'<link rel = "stylesheet" href = "/css/estilos.css">'
+'link rel = "stylesheet" href = "/css/estilos.css"'
